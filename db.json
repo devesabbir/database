@@ -1,0 +1,47 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "Sabbir",
+      "age": "40",
+      "photo": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "skillsId": "1"
+    },
+    {
+      "id": 2,
+      "name": "Sajid",
+      "age": "40",
+      "photo": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "skillsId": "1"
+    },
+    {
+      "id": 3,
+      "name": "dd",
+      "age": "d",
+      "photo": "d",
+      "skillsId": "2"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Larvael Developer"
+    },
+    {
+      "id": 2,
+      "name": "Django Developer"
+    },
+    {
+      "id": 3,
+      "name": "PHP Developer"
+    },
+    {
+      "id": 4,
+      "name": "Mern Developer"
+    },
+    {
+      "id": 5,
+      "name": "Python Developer"
+    }
+  ]
+}
